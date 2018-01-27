@@ -14,7 +14,7 @@ Setting Up Your VHOST
 The following is a sample VHOST you might want to consider for your project.
 
 <VirtualHost *:80>
-   DocumentRoot "C:/xampp/htdocs/zend/public"
+   DocumentRoot "C:/xampp/zend/public"
    ServerName .local
 
    # This should be omitted in the production environment
